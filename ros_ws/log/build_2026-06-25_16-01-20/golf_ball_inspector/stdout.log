@@ -1,0 +1,33 @@
+running egg_info
+writing ../build/golf_ball_inspector/golf_ball_inspector.egg-info/PKG-INFO
+writing dependency_links to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/dependency_links.txt
+writing entry points to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/entry_points.txt
+writing requirements to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/requires.txt
+writing top-level names to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/top_level.txt
+reading manifest file '../build/golf_ball_inspector/golf_ball_inspector.egg-info/SOURCES.txt'
+writing manifest file '../build/golf_ball_inspector/golf_ball_inspector.egg-info/SOURCES.txt'
+running build
+running build_py
+copying golf_ball_inspector/conveyor_node.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+copying golf_ball_inspector/dobot_controller_node.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+copying golf_ball_inspector/inspection_node.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+copying golf_ball_inspector/__init__.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+running install
+running install_lib
+copying /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector/dobot_controller_node.py -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector
+copying /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector/inspection_node.py -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector
+byte-compiling /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector/dobot_controller_node.py to dobot_controller_node.cpython-310.pyc
+byte-compiling /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector/inspection_node.py to inspection_node.cpython-310.pyc
+running install_data
+copying resource/golf_ball_inspector -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/ament_index/resource_index/packages
+copying package.xml -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/golf_ball_inspector
+copying launch/rpi_launch.py -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/golf_ball_inspector/launch
+copying launch/pc_launch.py -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/golf_ball_inspector/launch
+running install_egg_info
+removing '/home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector-0.1.0-py3.10.egg-info' (and everything under it)
+Copying ../build/golf_ball_inspector/golf_ball_inspector.egg-info to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector-0.1.0-py3.10.egg-info
+running install_scripts
+Installing conveyor script to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/golf_ball_inspector
+Installing dobot_controller script to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/golf_ball_inspector
+Installing inspection script to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/golf_ball_inspector
+writing list of installed files to '/home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/install.log'

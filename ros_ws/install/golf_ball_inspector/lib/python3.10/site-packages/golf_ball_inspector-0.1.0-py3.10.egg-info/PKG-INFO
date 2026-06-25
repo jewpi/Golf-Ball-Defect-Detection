@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: golf_ball_inspector
+Version: 0.1.0
+Summary: Golf ball defect detection and sorting system
+Maintainer: ssafy
+Maintainer-email: dlwlsdud0510@gmail.com
+License: MIT
+Requires-Dist: setuptools

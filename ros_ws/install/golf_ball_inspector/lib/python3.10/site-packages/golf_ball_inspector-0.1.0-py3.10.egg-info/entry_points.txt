@@ -1,0 +1,5 @@
+[console_scripts]
+conveyor = golf_ball_inspector.conveyor_node:main
+dobot_controller = golf_ball_inspector.dobot_controller_node:main
+inspection = golf_ball_inspector.inspection_node:main
+socket_bridge = golf_ball_inspector.socket_bridge_node:main

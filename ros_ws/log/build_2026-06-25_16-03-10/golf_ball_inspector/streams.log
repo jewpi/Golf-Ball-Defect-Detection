@@ -1,0 +1,31 @@
+[0.623s] Invoking command in '/home/ssafy/pene_pjt/ros_ws/golf_ball_inspector': PYTHONPATH=/home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/golf_ball_inspector build --build-base /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build install --record /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/install.log --single-version-externally-managed install_data
+[0.816s] running egg_info
+[0.828s] writing ../build/golf_ball_inspector/golf_ball_inspector.egg-info/PKG-INFO
+[0.829s] writing dependency_links to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/dependency_links.txt
+[0.829s] writing entry points to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/entry_points.txt
+[0.829s] writing requirements to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/requires.txt
+[0.829s] writing top-level names to ../build/golf_ball_inspector/golf_ball_inspector.egg-info/top_level.txt
+[0.853s] reading manifest file '../build/golf_ball_inspector/golf_ball_inspector.egg-info/SOURCES.txt'
+[0.854s] writing manifest file '../build/golf_ball_inspector/golf_ball_inspector.egg-info/SOURCES.txt'
+[0.854s] running build
+[0.854s] running build_py
+[0.854s] copying golf_ball_inspector/conveyor_node.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+[0.854s] copying golf_ball_inspector/dobot_controller_node.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+[0.854s] copying golf_ball_inspector/inspection_node.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+[0.854s] copying golf_ball_inspector/__init__.py -> /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build/lib/golf_ball_inspector
+[0.855s] running install
+[0.859s] running install_lib
+[0.871s] running install_data
+[0.871s] copying resource/golf_ball_inspector -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/ament_index/resource_index/packages
+[0.871s] copying package.xml -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/golf_ball_inspector
+[0.871s] copying launch/rpi_launch.py -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/golf_ball_inspector/launch
+[0.871s] copying launch/pc_launch.py -> /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/share/golf_ball_inspector/launch
+[0.872s] running install_egg_info
+[0.884s] removing '/home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector-0.1.0-py3.10.egg-info' (and everything under it)
+[0.884s] Copying ../build/golf_ball_inspector/golf_ball_inspector.egg-info to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages/golf_ball_inspector-0.1.0-py3.10.egg-info
+[0.885s] running install_scripts
+[0.990s] Installing conveyor script to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/golf_ball_inspector
+[0.991s] Installing dobot_controller script to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/golf_ball_inspector
+[0.991s] Installing inspection script to /home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/golf_ball_inspector
+[0.991s] writing list of installed files to '/home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/install.log'
+[1.010s] Invoked command in '/home/ssafy/pene_pjt/ros_ws/golf_ball_inspector' returned '0': PYTHONPATH=/home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/pene_pjt/ros_ws/install/golf_ball_inspector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/golf_ball_inspector build --build-base /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/build install --record /home/ssafy/pene_pjt/ros_ws/build/golf_ball_inspector/install.log --single-version-externally-managed install_data
