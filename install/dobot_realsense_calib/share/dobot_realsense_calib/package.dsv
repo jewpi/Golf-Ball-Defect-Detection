@@ -1,0 +1,12 @@
+source;share/dobot_realsense_calib/hook/path.ps1
+source;share/dobot_realsense_calib/hook/path.dsv
+source;share/dobot_realsense_calib/hook/path.sh
+source;share/dobot_realsense_calib/hook/pythonpath.ps1
+source;share/dobot_realsense_calib/hook/pythonpath.dsv
+source;share/dobot_realsense_calib/hook/pythonpath.sh
+source;share/dobot_realsense_calib/hook/pythonscriptspath.ps1
+source;share/dobot_realsense_calib/hook/pythonscriptspath.dsv
+source;share/dobot_realsense_calib/hook/pythonscriptspath.sh
+source;share/dobot_realsense_calib/hook/ament_prefix_path.ps1
+source;share/dobot_realsense_calib/hook/ament_prefix_path.dsv
+source;share/dobot_realsense_calib/hook/ament_prefix_path.sh

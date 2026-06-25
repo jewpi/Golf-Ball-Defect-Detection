@@ -1,0 +1,5 @@
+[console_scripts]
+calib_collect = dobot_realsense_calib.calib_collect:main
+calib_compute = dobot_realsense_calib.calib_compute:main
+calib_verify = dobot_realsense_calib.calib_verify:main
+pick_node = dobot_realsense_calib.pick_node:main

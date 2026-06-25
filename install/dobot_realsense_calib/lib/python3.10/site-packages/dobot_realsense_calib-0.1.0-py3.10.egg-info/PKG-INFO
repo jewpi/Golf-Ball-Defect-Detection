@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dobot_realsense_calib
+Version: 0.1.0
+Summary: Eye-to-Hand 평면 Affine 캘리브레이션 (Dobot Magician + RealSense)
+Maintainer: you
+Maintainer-email: you@example.com
+License: MIT
+Requires-Dist: setuptools

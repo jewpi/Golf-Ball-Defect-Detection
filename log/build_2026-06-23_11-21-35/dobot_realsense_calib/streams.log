@@ -1,0 +1,34 @@
+[0.669s] Invoking command in '/home/ssafy/pene_pjt/dobot_realsense_calib': PYTHONPATH=/home/ssafy/pene_pjt/build/dobot_realsense_calib/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/dobot_realsense_calib build --build-base /home/ssafy/pene_pjt/build/dobot_realsense_calib/build install --record /home/ssafy/pene_pjt/build/dobot_realsense_calib/install.log --single-version-externally-managed install_data
+[0.889s] running egg_info
+[0.901s] writing ../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/PKG-INFO
+[0.902s] writing dependency_links to ../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/dependency_links.txt
+[0.902s] writing entry points to ../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/entry_points.txt
+[0.902s] writing requirements to ../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/requires.txt
+[0.902s] writing top-level names to ../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/top_level.txt
+[0.929s] reading manifest file '../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/SOURCES.txt'
+[0.930s] writing manifest file '../build/dobot_realsense_calib/dobot_realsense_calib.egg-info/SOURCES.txt'
+[0.930s] running build
+[0.930s] running build_py
+[0.930s] copying dobot_realsense_calib/vision.py -> /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib
+[0.930s] copying dobot_realsense_calib/calib_collect.py -> /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib
+[0.930s] copying dobot_realsense_calib/calib_compute.py -> /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib
+[0.930s] copying dobot_realsense_calib/calib_verify.py -> /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib
+[0.930s] copying dobot_realsense_calib/robot_interface.py -> /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib
+[0.930s] copying dobot_realsense_calib/pick_node.py -> /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib
+[0.931s] running install
+[0.936s] running install_lib
+[0.950s] copying /home/ssafy/pene_pjt/build/dobot_realsense_calib/build/lib/dobot_realsense_calib/calib_collect.py -> /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/python3.10/site-packages/dobot_realsense_calib
+[0.951s] byte-compiling /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/python3.10/site-packages/dobot_realsense_calib/calib_collect.py to calib_collect.cpython-310.pyc
+[0.952s] running install_data
+[0.952s] copying package.xml -> /home/ssafy/pene_pjt/install/dobot_realsense_calib/share/dobot_realsense_calib
+[0.952s] copying launch/pick.launch.py -> /home/ssafy/pene_pjt/install/dobot_realsense_calib/share/dobot_realsense_calib/launch
+[0.953s] running install_egg_info
+[0.967s] removing '/home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/python3.10/site-packages/dobot_realsense_calib-0.1.0-py3.10.egg-info' (and everything under it)
+[0.967s] Copying ../build/dobot_realsense_calib/dobot_realsense_calib.egg-info to /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/python3.10/site-packages/dobot_realsense_calib-0.1.0-py3.10.egg-info
+[0.968s] running install_scripts
+[1.083s] Installing calib_collect script to /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/dobot_realsense_calib
+[1.083s] Installing calib_compute script to /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/dobot_realsense_calib
+[1.083s] Installing calib_verify script to /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/dobot_realsense_calib
+[1.083s] Installing pick_node script to /home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/dobot_realsense_calib
+[1.083s] writing list of installed files to '/home/ssafy/pene_pjt/build/dobot_realsense_calib/install.log'
+[1.104s] Invoked command in '/home/ssafy/pene_pjt/dobot_realsense_calib' returned '0': PYTHONPATH=/home/ssafy/pene_pjt/build/dobot_realsense_calib/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/pene_pjt/install/dobot_realsense_calib/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/dobot_realsense_calib build --build-base /home/ssafy/pene_pjt/build/dobot_realsense_calib/build install --record /home/ssafy/pene_pjt/build/dobot_realsense_calib/install.log --single-version-externally-managed install_data
